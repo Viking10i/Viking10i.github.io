@@ -1,6 +1,3 @@
-# Viking10i.github.io
-MonthlyPlanner
-<!DOCTYPE html>
 <html lang="cs">
 <head>
     <meta charset="UTF-8">
